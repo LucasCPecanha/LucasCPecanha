@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**LucasCPecanha/LucasCPecanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🌱 Estudando HTML, CSS e JavaScript
+- 😄 Pronomes: Ele/Dele
+ 
+ <div>
+  <a href="https://github.com/LucasCPecanha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCPecanha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCPecanha&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
+![Snake animation](https://github.com/LucasCPecanha/LucasCPecanha/blob/output/github-contribution-grid-snake.svg)
